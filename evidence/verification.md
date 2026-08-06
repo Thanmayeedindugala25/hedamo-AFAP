@@ -10,7 +10,7 @@ Per the pack: *"Verification — tests, sample inputs/outputs, screenshots, metr
 
 **Sample output:** `evidence/sample_outputs/extracted_products.json` — the raw JSON returned by the app on the above inputs.
 
-**Screenshot:** app's "Data Extraction Summary" panel, showing Total Items Extracted, Passed Pydantic Validation, and Data Integrity Rating.
+**Summary:** app's "Data Extraction Summary" panel, showing Total Items Extracted, Passed Pydantic Validation, and Data Integrity Rating.
 
 **Metrics:**
 
@@ -64,7 +64,7 @@ Per the pack: *"Verification — tests, sample inputs/outputs, screenshots, metr
 
 **Sample output:** the generated subject line and email body, captured in the app screenshot, plus the app's own Fact-Gate analysis panel.
 
-**Screenshot:** shows "Fact-Gate Status: WARNING" with one flagged infringement.
+**Summary:** shows "Fact-Gate Status: WARNING" with one flagged infringement.
 
 **Metrics:**
 
