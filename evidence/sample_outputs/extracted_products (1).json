@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "product_name": "Turbo Drill Pro",
+      "sku": "AX-100",
+      "price": 129.99,
+      "category": "Power Tools",
+      "specifications": [
+        "20V battery",
+        "Brushless motor",
+        "2-speed gearbox"
+      ],
+      "in_stock": true
+    },
+    {
+      "product_name": "Safety Goggles",
+      "sku": null,
+      "price": 799.0,
+      "category": "PPE",
+      "specifications": [],
+      "in_stock": true
+    },
+    {
+      "product_name": "MEGA WRENCH",
+      "sku": null,
+      "price": 14.5,
+      "category": "Hand Tools",
+      "specifications": [],
+      "in_stock": false
+    },
+    {
+      "product_name": "Promo Hammer",
+      "sku": null,
+      "price": null,
+      "category": "Uncategorized",
+      "specifications": [],
+      "in_stock": null
+    },
+    {
+      "product_name": "Cable Tie Pack x100",
+      "sku": "CT100",
+      "price": 149.0,
+      "category": "Uncategorized",
+      "specifications": [],
+      "in_stock": null
+    },
+    {
+      "product_name": "Smart Sensor Node",
+      "sku": "SSN-88",
+      "price": 56.75,
+      "category": "Electronics",
+      "specifications": [
+        "BLE 5.0",
+        "IP67",
+        "Rechargeable"
+      ],
+      "in_stock": null
+    },
+    {
+      "product_name": "Unknown Adapter",
+      "sku": null,
+      "price": 12.5,
+      "category": "Accessories",
+      "specifications": [],
+      "in_stock": null
+    }
+  ]
+}
