@@ -74,4 +74,5 @@ Both are demonstrated live in [`evidence/verification.md`](evidence/verification
 - [`evidence/ai_use_log.md`](evidence/ai_use_log.md) — tools, prompts, what the model got wrong, how it was checked
 - [`evidence/verification.md`](evidence/verification.md) — real test results, metrics, and two documented failures
 - [`evidence/sample_inputs/`](evidence/sample_inputs/) and [`evidence/sample_outputs/`](evidence/sample_outputs/) — the actual test data and actual outputs
+- [Demo video (Google Drive, ~2 min)](https://drive.google.com/file/d/1kRB_-GzdYPzDdmhKMkn46MIGv-rKOm8K/view?usp=sharing) — all three modules running live, including the extraction validation summary and the email fact-gate warning
 - [`reflection.md`](reflection.md) — time log, what challenged me, what I'd do with one more day
